@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dichecker"
-version = "0.0.0"
+version = "1.0.0"
 description = "A runtime checker for modern TypedDicts"
 authors = ["ooliver1 <oliverwilkes2006@icloud.com>"]
 license = "MIT"
