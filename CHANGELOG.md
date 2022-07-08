@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/ooliver1/dichecker/compare/v1.0.0...v1.0.1) (2022-07-08)
+
+
+### Bug Fixes
+
+* add an actual description ([3a7451a](https://github.com/ooliver1/dichecker/commit/3a7451a8de026f4bdc846637448ec576b2287141))
+
 ## [1.0.0](https://github.com/ooliver1/dichecker/compare/v1.0.0...v1.0.0) (2022-07-08)
 
 
