@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/ooliver1/dichecker/compare/v1.0.1...v1.0.2) (2022-07-08)
+
+
+### Bug Fixes
+
+* add pypi classifiers ([f070613](https://github.com/ooliver1/dichecker/commit/f0706136357636754a9be10d99c97890d00df0cb))
+
 ## [1.0.1](https://github.com/ooliver1/dichecker/compare/v1.0.0...v1.0.1) (2022-07-08)
 
 
