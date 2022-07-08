@@ -9,6 +9,13 @@ packages = [
     { include = "dichecker" },
 ]
 repository = "https://github.com/ooliver1/dichecker"
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Typing :: Typed",
+]
 
 [tool.poetry.dependencies]
 python = "^3.8"
